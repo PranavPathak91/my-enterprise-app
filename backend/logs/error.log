@@ -1,0 +1,1 @@
+{"level":"error","message":"(node:55459) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)","timestamp":"2024-12-07 21:26:12"}
